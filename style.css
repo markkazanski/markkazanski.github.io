@@ -32,7 +32,7 @@ aside{
 	height:392px;
 }
 
-h1, h2, h3, p{ background-color: #ebebeb; padding:6px; }
+h1, h2, h3, p{ background-color: #ebebeb; padding:6px; margin-bottom:18px;}
 
 .clear{
 	clear:both;
